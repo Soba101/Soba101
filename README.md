@@ -13,11 +13,6 @@
 - **Web Development:** HTML, CSS, JavaScript, NodeJS
 - **Tools & Platforms:** Git, GitHub, Jupyter Notebooks
 
-### Projects To Do
-1. **Automated Email Sorting System:** Developed a machine learning model to categorize and sort emails based on content and priority.
-2. **Smart To-Do List:** Created a to-do list application that uses natural language processing to understand and organize tasks efficiently.
-3. **Personal Finance Tracker:** Built a tool to track expenses and provide insights on spending patterns using data visualization techniques.
-
 ### Interests
 - **Artificial Intelligence:** Deep learning, neural networks, natural language processing
 - **Automation:** Creating solutions that save time and reduce manual effort
