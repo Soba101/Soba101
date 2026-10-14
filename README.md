@@ -1,7 +1,17 @@
 👋 Hi there! I'm Soba
 
-### About Me
-🎓 Currently studying Artificial Intelligence, I'm focused on understanding and leveraging the power of AI to solve real-world problems. My journey in AI has been driven by curiosity and the desire to innovate.
+## About Me
 
-### What I Do
-💻 I spend my time working on projects that aim to automate mundane and repetitive tasks. By creating intelligent systems, I strive to improve efficiency and simplify everyday processes.
+  I like using AI to solve real, everyday problems. I got into it out of curiosity, and I'm still curious.
+
+## What I Do
+
+  I build small tools that automate boring, repetitive tasks. I like systems that quietly save time.
+
+## Currently
+
+- 🛠️ Building agentic AI projects
+- 🏠 Tinkering with my home lab
+- ⛳ Trying to fix my golf swing
+
+## Say Hi
