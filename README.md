@@ -13,5 +13,3 @@
 - 🛠️ Building agentic AI projects
 - 🏠 Tinkering with my home lab
 - ⛳ Trying to fix my golf swing
-
-## Say Hi
